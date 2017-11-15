@@ -1,2 +1,3 @@
 # hello-world
 First repository for training purposes.
+Had Github for years and never tried it until now and it is awesome. Andy...
